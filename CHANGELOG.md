@@ -1,3 +1,10 @@
+## [1.39.2](https://github.com/asachs01/beacon/compare/v1.39.1...v1.39.2) (2026-10-11)
+
+
+### Bug Fixes
+
+* respect the notification lead-time setting ([#14](https://github.com/asachs01/beacon/issues/14)) ([#50](https://github.com/asachs01/beacon/issues/50)) ([bbeece3](https://github.com/asachs01/beacon/commit/bbeece3a9c51caf075e7d7f34f4cc6f95a914fc4))
+
 ## [1.39.1](https://github.com/asachs01/beacon/compare/v1.39.0...v1.39.1) (2026-10-11)
 
 
