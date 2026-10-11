@@ -1,3 +1,10 @@
+# [1.39.0](https://github.com/asachs01/beacon/compare/v1.38.0...v1.39.0) (2026-10-11)
+
+
+### Features
+
+* translate card registry, weather, timer, countdown, and photo frame ([#47](https://github.com/asachs01/beacon/issues/47)) ([#48](https://github.com/asachs01/beacon/issues/48)) ([16d1548](https://github.com/asachs01/beacon/commit/16d15480eb1f3f956b3e07831cd94af68c92f831))
+
 # [1.38.0](https://github.com/asachs01/beacon/compare/v1.37.0...v1.38.0) (2026-10-03)
 
 
