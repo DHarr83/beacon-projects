@@ -1,3 +1,10 @@
+## [1.39.3](https://github.com/asachs01/beacon/compare/v1.39.2...v1.39.3) (2026-10-11)
+
+
+### Bug Fixes
+
+* make Kiosk Mode setting actually hide the sidebar ([#20](https://github.com/asachs01/beacon/issues/20)) ([#51](https://github.com/asachs01/beacon/issues/51)) ([2175dca](https://github.com/asachs01/beacon/commit/2175dcab02437d3cfe5915c969f23397ce5d3738))
+
 ## [1.39.2](https://github.com/asachs01/beacon/compare/v1.39.1...v1.39.2) (2026-10-11)
 
 
