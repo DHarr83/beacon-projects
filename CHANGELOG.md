@@ -1,3 +1,10 @@
+## [1.39.1](https://github.com/asachs01/beacon/compare/v1.39.0...v1.39.1) (2026-10-11)
+
+
+### Bug Fixes
+
+* resolve HA media photos through ha-rest and resolve_media ([#41](https://github.com/asachs01/beacon/issues/41)) ([#49](https://github.com/asachs01/beacon/issues/49)) ([2ed658c](https://github.com/asachs01/beacon/commit/2ed658c367b86bce6e335b9789cccbe45bb0aea2))
+
 # [1.39.0](https://github.com/asachs01/beacon/compare/v1.38.0...v1.39.0) (2026-10-11)
 
 
