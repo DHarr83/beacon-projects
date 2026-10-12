@@ -1,3 +1,10 @@
+## [1.39.4](https://github.com/asachs01/beacon/compare/v1.39.3...v1.39.4) (2026-10-12)
+
+
+### Bug Fixes
+
+* sync beacon/ add-on tree with root and fail CI on drift ([#52](https://github.com/asachs01/beacon/issues/52)) ([9391c1f](https://github.com/asachs01/beacon/commit/9391c1f4ca2cd82b50ff54ddc88b541b59c20c7e)), closes [#47](https://github.com/asachs01/beacon/issues/47) [48-#51](https://github.com/48-/issues/51)
+
 ## [1.39.3](https://github.com/asachs01/beacon/compare/v1.39.2...v1.39.3) (2026-10-11)
 
 
