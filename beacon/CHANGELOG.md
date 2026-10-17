@@ -1,3 +1,10 @@
+## [1.39.5](https://github.com/asachs01/beacon/compare/v1.39.4...v1.39.5) (2026-10-17)
+
+
+### Bug Fixes
+
+* **i18n:** align card/widget strings with existing terms ([#54](https://github.com/asachs01/beacon/issues/54)) ([3e6bfd8](https://github.com/asachs01/beacon/commit/3e6bfd8c57774fad6d47630cebbff0a4427cec71)), closes [#47](https://github.com/asachs01/beacon/issues/47)
+
 ## [1.39.4](https://github.com/asachs01/beacon/compare/v1.39.3...v1.39.4) (2026-10-12)
 
 
