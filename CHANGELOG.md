@@ -1,3 +1,10 @@
+## [1.39.6](https://github.com/asachs01/beacon/compare/v1.39.5...v1.39.6) (2026-10-17)
+
+
+### Bug Fixes
+
+* **i18n:** translate remaining hardcoded screens ([#55](https://github.com/asachs01/beacon/issues/55)) ([42dbac1](https://github.com/asachs01/beacon/commit/42dbac102aeca967e6b584f732e1c1e83c094eab)), closes [#47](https://github.com/asachs01/beacon/issues/47) [48-#51](https://github.com/48-/issues/51) [#54](https://github.com/asachs01/beacon/issues/54) [#54](https://github.com/asachs01/beacon/issues/54)
+
 ## [1.39.5](https://github.com/asachs01/beacon/compare/v1.39.4...v1.39.5) (2026-10-17)
 
 
