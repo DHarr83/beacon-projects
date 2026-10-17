@@ -1,3 +1,10 @@
+# [1.40.0](https://github.com/asachs01/beacon/compare/v1.39.6...v1.40.0) (2026-10-17)
+
+
+### Features
+
+* **brand:** Beacon Light icon set from single SVG source ([#56](https://github.com/asachs01/beacon/issues/56)) ([2506ee1](https://github.com/asachs01/beacon/commit/2506ee107706cf5dca626ba06108a26c98783a62)), closes [#f7a832](https://github.com/asachs01/beacon/issues/f7a832) [#101d3c](https://github.com/asachs01/beacon/issues/101d3c) [#101d3c](https://github.com/asachs01/beacon/issues/101d3c) [#101d3c](https://github.com/asachs01/beacon/issues/101d3c)
+
 ## [1.39.6](https://github.com/asachs01/beacon/compare/v1.39.5...v1.39.6) (2026-10-17)
 
 
