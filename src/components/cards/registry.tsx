@@ -104,7 +104,7 @@ export const cardRegistry: Record<string, CardDefinition> = {
     displayNameKey: 'cards.haEntitiesList.displayName',
     icon: '📶',
     component: HaEntitiesListCard,
-    defaultConfig: { title: 'Entities', subtitle: '', entity_ids: [] },
+    defaultConfig: { title: '', subtitle: '', entity_ids: [] },
     defaultSize: 'sm',
     configFields: [
       { type: 'text', key: 'title', labelKey: 'cards.common.titleLabel' },
