@@ -25,6 +25,7 @@ export const nl: Record<TranslationKey, string> = {
   'nav.chores': 'Klusjes',
   'nav.grocery': "Lijsten",
   'nav.tasks': 'Taken',
+  'nav.projects': 'Projecten',
   'nav.leaderboard': 'Ranglijst',
   'nav.music': 'Muziek',
   'nav.photos': "Foto's",

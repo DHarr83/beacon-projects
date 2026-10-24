@@ -33,6 +33,7 @@ import { useLocalCalendar } from './hooks/useLocalCalendar';
 import { useDashboardTasks } from './hooks/useDashboardTasks';
 import OnboardingView from './components/OnboardingView';
 import { FocusView } from './components/focus/FocusView';
+import { ProjectsView } from './components/ProjectsView';
 import { getFocusMemberId, clearFocusMode, setDeviceFocusMember } from './focus';
 import { CalendarEvent, resolveCalendarColor } from './types';
 import { getConfig, patchConfig } from './config';
@@ -491,10 +492,10 @@ export function App() {
       '3': 'chores',
       '4': 'grocery',
       '5': 'tasks',
-      '6': 'leaderboard',
-      '7': 'music',
-      '8': 'photos',
-      '9': 'timer',
+      '6': 'projects',
+      '7': 'leaderboard',
+      '8': 'music',
+      '9': 'photos',
       '0': 'settings',
     };
 
@@ -655,6 +656,8 @@ export function App() {
           <GroceryView defaultListId={settings.defaultGroceryList || undefined} mode="grocery" groceryListIds={settings.groceryListIds} />
         ) : activeView === 'tasks' ? (
           <GroceryView mode="tasks" groceryListIds={settings.groceryListIds} />
+        ) : activeView === 'projects' ? (
+          <ProjectsView members={members} />
         ) : activeView === 'timer' ? (
           <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100%', padding: 24 }}>
             <Timer />

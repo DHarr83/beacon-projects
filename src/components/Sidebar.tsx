@@ -11,13 +11,14 @@ import {
   Settings,
   Timer as TimerIcon,
   CloudSun,
+  BriefcaseBusiness,
   MoreHorizontal,
   X,
 } from 'lucide-react';
 import beaconIcon from '../assets/beacon-app-icon.svg';
 import { useTranslation, type TranslationKey } from '../i18n';
 
-export type SidebarView = 'dashboard' | 'calendar' | 'chores' | 'grocery' | 'tasks' | 'leaderboard' | 'music' | 'photos' | 'timer' | 'weather' | 'settings';
+export type SidebarView = 'dashboard' | 'calendar' | 'chores' | 'grocery' | 'tasks' | 'projects' | 'leaderboard' | 'music' | 'photos' | 'timer' | 'weather' | 'settings';
 
 interface SidebarProps {
   activeView: SidebarView;
@@ -40,6 +41,7 @@ const NAV_ITEMS: NavItem[] = [
   { id: 'chores', icon: <ListChecks size={ICON_SIZE} strokeWidth={STROKE_WIDTH} />, labelKey: 'nav.chores' },
   { id: 'grocery', icon: <ShoppingCart size={ICON_SIZE} strokeWidth={STROKE_WIDTH} />, labelKey: 'nav.grocery' },
   { id: 'tasks', icon: <ClipboardList size={ICON_SIZE} strokeWidth={STROKE_WIDTH} />, labelKey: 'nav.tasks' },
+  { id: 'projects', icon: <BriefcaseBusiness size={ICON_SIZE} strokeWidth={STROKE_WIDTH} />, labelKey: 'nav.projects' },
   { id: 'leaderboard', icon: <Trophy size={ICON_SIZE} strokeWidth={STROKE_WIDTH} />, labelKey: 'nav.leaderboard' },
   { id: 'music', icon: <Music size={ICON_SIZE} strokeWidth={STROKE_WIDTH} />, labelKey: 'nav.music' },
   { id: 'photos', icon: <Image size={ICON_SIZE} strokeWidth={STROKE_WIDTH} />, labelKey: 'nav.photos' },

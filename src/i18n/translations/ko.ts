@@ -25,6 +25,7 @@ export const ko: Record<TranslationKey, string> = {
   'nav.chores': '집안일',
   'nav.grocery': '목록',
   'nav.tasks': '할 일',
+  'nav.projects': '프로젝트',
   'nav.leaderboard': '순위표',
   'nav.music': '음악',
   'nav.photos': '사진',

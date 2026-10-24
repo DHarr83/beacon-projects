@@ -25,6 +25,7 @@ export const ja: Record<TranslationKey, string> = {
   'nav.chores': '家事',
   'nav.grocery': 'リスト',
   'nav.tasks': 'タスク',
+  'nav.projects': 'プロジェクト',
   'nav.leaderboard': 'ランキング',
   'nav.music': '音楽',
   'nav.photos': '写真',
